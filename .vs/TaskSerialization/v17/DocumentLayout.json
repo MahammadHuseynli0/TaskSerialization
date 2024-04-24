@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskSerialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAC3E9E-80CA-497F-9D83-B22A385A0955}|TaskSerialization\\TaskSerialization.csproj|c:\\users\\user\\source\\repos\\taskserialization\\taskserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAC3E9E-80CA-497F-9D83-B22A385A0955}|TaskSerialization\\TaskSerialization.csproj|solutionrelative:taskserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAC3E9E-80CA-497F-9D83-B22A385A0955}|TaskSerialization\\TaskSerialization.csproj|c:\\users\\user\\source\\repos\\taskserialization\\taskserialization\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAC3E9E-80CA-497F-9D83-B22A385A0955}|TaskSerialization\\TaskSerialization.csproj|solutionrelative:taskserialization\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSerialization\\TaskSerialization\\Student.cs",
+              "RelativeDocumentMoniker": "TaskSerialization\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSerialization\\TaskSerialization\\Student.cs",
+              "RelativeToolTip": "TaskSerialization\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:41:50.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSerialization\\TaskSerialization\\Program.cs",
+              "RelativeDocumentMoniker": "TaskSerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSerialization\\TaskSerialization\\Program.cs",
+              "RelativeToolTip": "TaskSerialization\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:40:39.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
